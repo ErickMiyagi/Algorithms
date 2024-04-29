@@ -4,6 +4,8 @@
 
 Neste projeto, vou introduzir as principais estrutura de dados e compreender melhor o funcionamento de cada uma, visando melhorar a minha lógica computacional e entender melhor no geral o uso das Estrutura de Dados.
 
+Ao longo dos exemplos, vou colocar em prática também Padrões de Projetos(Design Patterns) e o SOLID
+
 
 
 
