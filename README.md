@@ -35,7 +35,7 @@ Ao longo dos exemplos, vou colocar em prática também Padrões de Projetos(Desi
 
 <h2>Terceiro Capítulo</h2>
 
-- Para o Terceiro capítulo, iremos entender a diferença entre listas encadeadas e array, e compreender em qual situação cada um se aplica melhor e seus prós e contras.
+- Para o Terceiro capítulo, iremos entender Função Recursiva e chamada de Pilhas(Stacks) e colocar os prós e contras entre elas.
 
   
 
