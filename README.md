@@ -35,7 +35,7 @@ Ao longo dos exemplos, vou colocar em prática também Padrões de Projetos(Desi
 
 <h2>Terceiro Capítulo</h2>
 
-- Para o Terceiro capítulo, iremos entender Função Recursiva e chamada de Pilhas(Stacks) e colocar os prós e contras entre elas.
+- Para o Terceiro capítulo, iremos entender Função Recursiva e Chamada de Pilhas(Call Stacks) e colocar os prós e contras entre elas.
 
   
 
