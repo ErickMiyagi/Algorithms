@@ -25,6 +25,20 @@ Ao longo dos exemplos, vou colocar em prática também Padrões de Projetos(Desi
 
 <h2>Segundo Capítulo</h2>
 
+- Para o Segundo capítulo, iremos entender a diferença entre listas encadeadas e array, e compreender em qual situação cada um se aplica melhor e seus prós e contras.
+
+- Os Arrays são mais comuns porque permitem o acesso aleatório.Existem dois tipos de acesso: o aleatório e o sequencial.O sequencial significa ler os elementos um por um, começando pelo primeiro.Listas encadeads só podem lidar com acesso sequencial.
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:600/1*NLISyawxBDJjJukZtpE95w.png" alt="App Screenshot">
+</p>
+
+<h2>Terceiro Capítulo</h2>
+
+- Para o Terceiro capítulo, iremos entender Função Recursiva e Chamada de Pilhas(Call Stacks) e colocar os prós e contras entre elas.
+
+  
+
 ## Referência
 
  - Livro: Entendendo Algoritmos
