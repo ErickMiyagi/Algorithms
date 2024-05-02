@@ -45,7 +45,11 @@ Ao longo dos exemplos, vou colocar em prática também Padrões de Projetos(Desi
 
 <h2>Quarto Capítulo</h2>
   
-- Para o Quarto Capítulo, iremos entender 
+- Para o Quarto Capítulo, iremos entender o algoritmo Quicksort que utiliza a técnica de DC(Dividir para conquistar) com Recursividade, trazendo a ideia de um pivo para escolher e tirando os valores maiores e menores que o pivo, separando em 2 subarrays e ordenando-os
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:577/1*bIJvejLlEshkf-ehYJJlWQ.png" alt="App Screenshot">
+</p>
 
 ## Referência
 
