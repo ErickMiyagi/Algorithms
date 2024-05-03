@@ -51,6 +51,10 @@ Ao longo dos exemplos, vou colocar em prática também Padrões de Projetos(Desi
   <img src="https://miro.medium.com/v2/resize:fit:577/1*bIJvejLlEshkf-ehYJJlWQ.png" alt="App Screenshot">
 </p>
 
+<h2>Quinto Capítulo</h2>
+
+- Para o Quinto Capítulo, iremos entender as Tabelas Hash: implementação, colisões e função hash, sendo uma Estrutura de Dados bem rápida e complexa com tempo de execução O(1)
+
 ## Referência
 
  - Livro: Entendendo Algoritmos
