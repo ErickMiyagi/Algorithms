@@ -59,6 +59,20 @@ Ao longo dos exemplos, vou colocar em prática também Padrões de Projetos(Desi
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGKHECkMlsZui8yH9sMQFY02CcpxJlekdZng&usqp=CAU" alt="App Screenshot">
 </p>
 
+<h2>Sexto Capítulo</h2>
+
+- Para o Sexto Capítulo, daremos introdução emm Grafos, e no algoritmo Pesquisa em largura, entendendo a modelagem e o entendimento de um grafo, usando também o conceito de filas(queue)
+
+- Tem dois tipos de grafos: direcionados(setas apontadas em um sentido) e não direcionados(não possui setas apontadas, e a relação acontece nos dois sentidos)
+
+<p align="center">
+  <img src="https://cdn.kastatic.org/ka-perseus-images/2b4922a8372b82d83bfb5eb416f338fc38b57d96.png" alt="App Screenshot">
+</p>
+
+
+
+
+
 ## Referência
 
  - Livro: Entendendo Algoritmos
