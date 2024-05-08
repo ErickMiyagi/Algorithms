@@ -2,7 +2,7 @@ package Search;
 
 public class binarySearch {
     public static void main(String[] args) {
-        int[] list = {10,29,32,1,203,23,48,1238};
+        int[] list = {10,29,32,1,203,23,48,1238,1};
         System.out.println(searchBinary(list, 6));
     }
     public static Integer searchBinary(int[] list, int number){
